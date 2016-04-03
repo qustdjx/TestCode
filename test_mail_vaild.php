@@ -1,0 +1,13 @@
+<?php
+
+function valid_email($str)
+{
+    return ( ! preg_match("/^([a-z0-9\+_\-]+)(\.[a-z0-9\+_\-]+)*@([a-z0-9\-]+\.)+[a-z]{2,6}$/ix", $str)) ? FALSE : TRUE;
+}
+
+
+$test_str="ddddd";
+
+$result=valid_email($result);
+
+var_dump($result);
