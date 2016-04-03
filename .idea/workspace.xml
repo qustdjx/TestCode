@@ -43,6 +43,7 @@
         <option value="$PROJECT_DIR$/test_path.php" />
         <option value="$PROJECT_DIR$/test_server.php" />
         <option value="$PROJECT_DIR$/plan.txt" />
+        <option value="$PROJECT_DIR$/test1.txt" />
       </list>
     </option>
   </component>
@@ -183,7 +184,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="746" extended-state="1" />
+    <frame x="-4" y="-4" width="1374" height="746" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
