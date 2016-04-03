@@ -1,0 +1,32 @@
+
+以下需要深入研究下：
+1	多看PHP源码 小京东
+2	JS相关的
+3	关于API的开发 restful
+4	工具集合
+5	mysql 分页
+6	YII2 多表查询
+7	join left right
+8	redis 的publish 订阅功能
+9	自己的站
+10	SQL注入与安全，跨站脚本
+11	include include_once require require_once 详解
+12	autoload 类
+13	github 加上一个冲突解决 等
+14	特别或者专用的调试工具
+15	PHP 开源项目 包括YII2.O GET
+16	存储过程
+17	PHP Benchmark PHP 性能优化，http://www.phpbench.com/
+18	上传插件
+19	分页插件
+20	调试工具https://github.com/luofei614/SocketLog
+21	思维导图工具
+22	mysql PDO 与基本的 连接
+23	mysql 的主从复制，以及redis的主从复制
+24	phpdoc 注释工具
+25	测试驱动开发
+26	正则表达式
+27	DRY :DRY——Don't Repeat Yourself Principle KISS
+28	闭包
+29	面向对象设计模式
+30	PSR 1 PSR4
